@@ -125,7 +125,7 @@ body::before {
 
 #profilePhoto {
   width: 160px;
-  height: 140px;
+  height: 210px;
   border-radius: 40%;
   object-fit: cover;
   transition: 0.4s;
@@ -283,4 +283,5 @@ body::before {
   h2 { font-size: 22px; }
   p { font-size: 13px; }
 }
+
 

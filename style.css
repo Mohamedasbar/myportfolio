@@ -124,6 +124,7 @@ body::before {
 }
 
 #profilePhoto {
+  padding-top:10px;
   width: 180px;
   height: 210px;
   border-radius: 60%;
@@ -283,6 +284,7 @@ body::before {
   h2 { font-size: 22px; }
   p { font-size: 13px; }
 }
+
 
 
 
